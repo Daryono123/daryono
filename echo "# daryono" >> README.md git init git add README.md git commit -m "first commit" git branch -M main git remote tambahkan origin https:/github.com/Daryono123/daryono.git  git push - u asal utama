@@ -1,0 +1,7 @@
+echo "# daryono" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote tambahkan origin https://github.com/Daryono123/daryono.git
+ git push - u asal utama
